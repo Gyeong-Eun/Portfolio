@@ -114,6 +114,7 @@
 - 프롬포트 엔지니어링을 통해 선정성 수치가 높은 헤드라인을 비선정적으로 생성
 - [`소스 코드 (KULLM3&KoBART 생성 프롬프트)`](https://github.com/Gyeong-Eun/portpolio/blob/master/Capstone2/prompt/gen_kullm3&KoBART.py)
 - [`소스 코드 (GPT-4 Turbo 생성 프롬프트)`](https://github.com/Gyeong-Eun/portpolio/blob/master/Capstone2/prompt/gen_gpt4turbo.py)
+<br>
 
 
 **생성 평가지표**
@@ -152,6 +153,8 @@
 - 세 모델 모두 비선정적인 헤드라인을 생성했지만, GPT-4 Turbo가 본문의 내용을 효과적으로 반영하고 헤드라인 형식에 가장 적합하게 생성
 - GPT-4 Turbo를 헤드라인 생성 모델로 채택
 - [`소스 코드 (헤드라인 생성_GPT-4 Turbo)`](https://github.com/Gyeong-Eun/portpolio/blob/master/Capstone2/code/gpt4turbo.ipynb)
+<br>
+
 
 
 
