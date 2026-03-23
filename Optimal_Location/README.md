@@ -82,7 +82,6 @@
 <br>
 
 
-
 ### 데이터 전처리
 
 **우체통이 커버하는 권역의 수요지 제외**
@@ -91,9 +90,8 @@
 **블록화된 수요지의 위도, 경도, 수요지 데이터 일부**
 
 <p>
-<img src="https://github.com/user-attachments/assets/f05c9696-920a-439e-a1e0-2289e4c7f7cb" width="500" />
+<img src="https://github.com/user-attachments/assets/f05c9696-920a-439e-a1e0-2289e4c7f7cb" width="600" />
 </p>
-
 <br>
 
 
