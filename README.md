@@ -10,3 +10,6 @@
 
 
 ## Projects
+- [`[미디어/NLP] LLM 기반 기사 헤드라인 선정성 평가 및 생성 방법론`](https://github.com/Gyeong-Eun/portpolio/blob/master/Capstone2/README.md)
+- 선정적 표현의 헤드라인으로 발생하는 2차 가해 방지를 위한 비선정적 헤드라인 생성 
+- 기존 선정적 헤드라인 대비 생성 헤드라인의 선정성 수치 74.7% 감소
