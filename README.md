@@ -1,5 +1,5 @@
 # 김경은 포트폴리오
-> 김경은(GyeongEun Kim) - Portpolio
+> Portfolio by Gyeongeun Kim
 <br>
 
 ## 🖐️ Intro
