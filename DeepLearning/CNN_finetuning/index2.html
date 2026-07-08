@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SVHN Predictions</title>
+    <style>
+        img {
+            width: 300px;  /* 원하는 너비 */
+            height: auto;  /* 비율을 유지하면서 높이 자동 조정 */
+        }
+        .result {
+            font-size: 24px; /* 결과 텍스트 크기 조정 */
+        }
+        .correct {
+            color: green; /* Correct 텍스트 색상 */
+        }
+        .incorrect {
+            color: red; /* Incorrect 텍스트 색상 */
+        }
+    </style>
+</head>
+<body>
+    <h1>SVHN Model Predictions</h1>
+    
+    {% set predicted = context.result.split(' | ')[0].split(': ')[1] %}
+    {% set true_label = context.result.split(' | ')[1].split(': ')[1] %}
+    
+    <h2 class="result">
+        {{ context.result }} -> <span class="{{ 'correct' if predicted == true_label else 'incorrect' }}">
+        {{ 'Correct!' if predicted == true_label else 'Incorrect!' }}</span>
+    </h2>
+    
+    <img src="/imgs/f.jpg" alt="Predicted Image">
+    <br>
+    <a href="/test">Get another prediction</a>
+</body>
+</html>
