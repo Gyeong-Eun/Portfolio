@@ -4,10 +4,12 @@
 ## Stable Diffusion Inpainting
 <img width="1107" height="407" alt="image (6)" src="https://github.com/user-attachments/assets/39f72ddf-7eab-44a5-beba-dfa5a68e7e29" />
 
-- Stable Diffusion Inpainting 모델은 Diffusion 모델을 활용한 이미지 복원 및 편집 기술로, 손상된 이미지의 복구 또는 특정 영역을 원하는 스타일이나 콘텐츠로 대체하는 작업을 수행한다.
-- 사용자가 지정한 영역과 텍스트 프롬프트를 바탕으로 해당 영역의 콘텐츠를 생성한다.
+- Stable Diffusion Inpainting 모델은 Diffusion 모델을 활용한 이미지 복원 및 편집 기술로, 손상된 이미지의 복구 또는 특정 영역을 원하는 스타일이나 콘텐츠로 대체하는 작업을 수행
+- 사용자가 지정한 영역과 텍스트 프롬프트를 바탕으로 해당 영역의 콘텐츠를 생성
 
 <br>
+
+
 
 
 
@@ -19,6 +21,8 @@
 
 
 <br>
+
+
 
 
 ## Masks
@@ -36,6 +40,8 @@
 <br>
 
 
+
+
 ## Inpainting
 <img width="2048" height="512" alt="다운로드 (3) (1)" src="https://github.com/user-attachments/assets/802e255d-dbd1-4df0-a4fb-3edd61950cb9" />
 
@@ -43,6 +49,8 @@
 - 프롬프트 입력 -> "Chocolate donuts topped with sprinkles."
 
 <br>
+
+
 
 
 
