@@ -1,4 +1,6 @@
 # Stable Diffusion Inpainting with SAM
+- [`소스 코드 (Inpainting_with_SAM.ipynb)`](https://github.com/Gyeong-Eun/portpolio/blob/master/Capstone2/code/뉴스기사_크롤링_세계일보.ipynb)
+
 <br>
 
 ## Stable Diffusion Inpainting
