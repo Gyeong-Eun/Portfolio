@@ -1,5 +1,6 @@
 # Stable Diffusion Inpainting with SAM
-- [`소스 코드 (Inpainting_with_SAM.ipynb)`](DeepLearning/stableDiffusion/Inpainting_with_SAM.ipynb)
+- [`소스 코드 (Inpainting_with_SAM.ipynb)`](https://github.com/Gyeong-Eun/portpolio/blob/master/DeepLearning/stableDiffusion/Inpainting_with_SAM.ipynb)
+
 
 <br>
 
