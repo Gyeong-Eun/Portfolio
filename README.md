@@ -14,11 +14,18 @@
 
 
 ## 🗂️ Projects
+💰[`[금융/RAG] 예금보험공사 RAG 기반 AI 상담 챗봇 ‘예봄’`](https://github.com/likelion-4MATION/4MATION_archive)
+- 예금보험공사의 산재된 웹사이트 데이터를 하나의 코퍼스로 모으고 사용자의 질문에 맞는 근거 문서를 찾아 출처와 함께 답변하는 RAG 기반 AI 챗봇 ‘예봄’을 구현
+- 텍스트-앵커 판정 방식 도입 및 검색 고도화로 최종 검색 정확도 hit@5 0.765 → 0.884로 15.6% 개선
+- 기술스택 : Python, PyTorch, Sentence-Transformers, FAISS, BM25, CLOVA Studio API, Streamlit
+
+<br>
+
 📰[`[미디어/NLP] LLM 기반 기사 헤드라인 선정성 평가 및 생성 방법론`](https://github.com/Gyeong-Eun/portpolio/blob/master/Capstone2/README.md)
 - 선정적 표현의 헤드라인으로 발생하는 2차 가해 방지를 위한 비선정적 헤드라인 생성 
 - 기존 선정적 헤드라인 대비 생성 헤드라인의 선정성 수치 74.7% 감소
 - ICT 플랫폼학회 추계학술대회 우수 논문상 수상 (2024.12)
-- 기술스택 : Python | PyTorch | HuggingFace Transformers
+- 기술스택 : Python, PyTorch, HuggingFace Transformers, OpenAI API
 
 <br>
 
