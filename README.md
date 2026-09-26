@@ -17,7 +17,17 @@
 📰[`[미디어/NLP] LLM 기반 기사 헤드라인 선정성 평가 및 생성 방법론`](https://github.com/Gyeong-Eun/portpolio/blob/master/Capstone2/README.md)
 - 선정적 표현의 헤드라인으로 발생하는 2차 가해 방지를 위한 비선정적 헤드라인 생성 
 - 기존 선정적 헤드라인 대비 생성 헤드라인의 선정성 수치 74.7% 감소
+- ICT 플랫폼학회 추계학술대회 우수 논문상 수상 (2024.12)
 - 기술스택 : Python | PyTorch | HuggingFace Transformers
+
+<br>
+
+💊[`[공공/최적화] 우체통의 위치를 반영한 폐의약품 수거시설 최적 입지 선정`](https://github.com/Gyeong-Eun/portpolio/blob/master/Optimal_Location/README.md)
+- 수거함의 접근성 증대 및 공간적 효율성을 개선 방안을 제시하여 사회적 문제 해결에 기여
+- 최적 입지 재배치를 통해 총 이동 거리 및 수요지당 평균 거리 34% 감소
+- 한국경영과학회 경영과학 논문지에 논문 게재(2025.03)
+- 기술스택 : Python | 입지 최적화 | T map API
+
 
 <br>
 
@@ -28,13 +38,6 @@
 
 <br>
 
-💊[`[공공/최적화] 우체통의 위치를 반영한 폐의약품 수거시설 최적 입지 선정`](https://github.com/Gyeong-Eun/portpolio/blob/master/Optimal_Location/README.md)
-- 수거함의 접근성 증대 및 공간적 효율성을 개선 방안을 제시하여 사회적 문제 해결에 기여
-- 최적 입지 재배치를 통해 총 이동 거리 및 수요지당 평균 거리 34% 감소
-- 기술스택 : Python | 입지 최적화 | T map API
-
-
-<br>
 
 ## 📞Contact
 - Email : twinkim002@gmail.com
