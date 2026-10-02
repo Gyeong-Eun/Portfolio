@@ -14,7 +14,7 @@
 
 
 ## 🗂️ Projects
-💰[`[금융/RAG] 예금보험공사 RAG 기반 AI 상담 챗봇 ‘예봄’`](https://github.com/likelion-4MATION/4MATION_archive)
+💰[`[금융/RAG] 예금보험공사 RAG 기반 AI 상담 챗봇 ‘예봄’`](https://github.com/likelion-4MATION/4MATION)
 - 예금보험공사의 산재된 웹사이트 데이터를 하나의 코퍼스로 모으고 사용자의 질문에 맞는 근거 문서를 찾아 출처와 함께 답변하는 RAG 기반 AI 챗봇 ‘예봄’을 구현
 - 텍스트-앵커 판정 방식 도입 및 검색 고도화로 최종 검색 정확도 hit@5 0.765 → 0.884로 15.6% 개선
 - 기술스택 : Python, PyTorch, Sentence-Transformers, FAISS, BM25, CLOVA Studio API, Streamlit
