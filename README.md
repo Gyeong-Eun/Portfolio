@@ -18,7 +18,7 @@ AI 모델과 데이터에 대한 이해를 바탕으로 검색·생성 품질을
 ## 🗂️ Projects
 💰[`[금융/RAG] 예금보험공사 RAG 기반 AI 상담 챗봇 ‘예봄’`](https://github.com/likelion-4MATION/4MATION)
 - 예금보험공사의 산재된 웹사이트 데이터를 하나의 코퍼스로 모으고 사용자의 질문에 맞는 근거 문서를 찾아 출처와 함께 답변하는 RAG 기반 AI 챗봇 ‘예봄’을 구현
-- 텍스트-앵커 평가 체계를 도입해 채점 정확도를 높이고 검색 성능 개선으로 최종 검색 정확도 hit@5 0.884를 달성하였다.
+- 텍스트-앵커 평가 체계를 도입해 채점 정확도를 높이고 검색 성능 개선으로 최종 검색 정확도 hit@5 0.884를 달성
 - 기술스택 : Python, PyTorch, Sentence-Transformers, CLOVA Studio API, Streamlit
 
 <br>
